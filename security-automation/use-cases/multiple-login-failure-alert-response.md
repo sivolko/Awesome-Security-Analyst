@@ -4,7 +4,7 @@ Solution :-
 
 Architecture Diagram 
 ![alt text](image.png)
-Draw.io file - [file](/MulitpleLoginFailure.draw.io)
+Draw.io file - [file](/security-automation/use-cases/MultipleLoginFailure.drawio)
 
 Here we'll use SOAR (Security Orchestration Autoamtion and Response) to automate Multiple login failure alert response. It can be achived with the both Azure Logic & Power Apps.
 
