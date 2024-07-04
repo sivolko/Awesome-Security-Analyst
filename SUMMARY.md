@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Awesome-Security-Analyst-Tools](README.md)
+* [Awesome-Security-Analyst](README.md)
 * [Threat Modeling ](threat-modeling/README.md)
   * [What is Threat Modeling](threat-modeling/threatmodeling.md)
   * [STRIDE](<Threat Modeling /STRIDE.md>)
