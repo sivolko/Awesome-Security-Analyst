@@ -7,7 +7,7 @@ description: >-
 
 # PASTA
 
-<mark style="color:purple;">**Process**</mark>&#x20;
+<mark style="color:purple;">**cess**</mark>&#x20;
 
 <mark style="color:purple;">**Attack**</mark>
 
@@ -29,6 +29,4 @@ There are 7 seven stages&#x20;
 6. Attack Analysis&#x20;
 7. Risk and Impact Analysis&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
