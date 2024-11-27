@@ -8,5 +8,5 @@
 * [security-automation](security-automation/README.md)
   * [use-cases](security-automation/use-cases/README.md)
     * [Use Case Automate the workflow for multiple security login failure alerts response](security-automation/use-cases/multiple-login-failure-alert-response.md)
-* [Cheatsheets](cheatsheets/README.md)
+* [📑 Cheatsheets](cheatsheets/README.md)
   * [🐳 Docker-Community Extensions](cheatsheets/docker-community-extensions.md)
